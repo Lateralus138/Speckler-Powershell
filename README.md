@@ -4,6 +4,26 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lateralus138&repo=Speckler-Powershell)
 
+- [Speckler Powershell](#speckler-powershell)
+  - [About](#about)
+    - [Description](#description)
+    - [Motivation](#motivation)
+  - [Usage](#usage)
+    - [Environment](#environment)
+    - [How To Use](#how-to-use)
+    - [How To Get](#how-to-get)
+    - [Examples](#examples)
+      - [Get-Help](#get-help)
+      - [Run With Default Settings)](#run-with-default-settings)
+      - [Run With Only 1 Variation Of 1 Width](#run-with-only-1-variation-of-1-width)
+  - [Project Information](#project-information)
+  - [Media](#media)
+    - [Example 1](#example-1)
+    - [Example 2](#example-2)
+  - [Support Me If You Like](#support-me-if-you-like)
+  - [LICENSE](#license)
+
+
 ---
 
 ## About
